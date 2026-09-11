@@ -1,16 +1,17 @@
-## Hi there 👋
+# Salut, moi c'est Massoud 👋
 
-<!--
-**sama226/sama226** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Étudiant-ingénieur en Réseaux & Télécommunications au Burkina Faso 🇧🇫, passionné de sciences exactes et de programmation.
 
-Here are some ideas to get you started:
+Je me forme actuellement vers l'**intelligence artificielle** et la **cybersécurité**, avec l'ambition de rejoindre un jour un grand acteur de la tech.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🔭 Ce que je fais en ce moment
+- Renforcement de mes bases en Python et en réseaux
+- Exploration de l'IA et de la cybersécurité pour choisir ma spécialisation
+- Construction de mon portfolio, projet par projet
+
+## 🛠️ Stack technique
+`Python` `C` `JavaScript` `TypeScript` `MySQL` `Linux` `TCP/IP`
+
+## 📫 Me contacter
+- Email : massoudouedraogo327@gmail.com
+- LinkedIn : OUEDRAOGO Massoud
